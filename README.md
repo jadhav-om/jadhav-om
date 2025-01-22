@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/jadhav-om)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link](https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link)
+- - 📫 How to reach me **omjadhav.rcpit@gmail.com**
+- ⚡ My Personal Portfolio Website [Portfolio](https://portfolio-website-omjadhav.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
