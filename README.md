@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jadhav-om](https://github.com/jadhav-om)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link](https://drive.google.com/file/d/1ZGNJuA82pUeoNsV6ZIIlIWwpoMJvJASE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
